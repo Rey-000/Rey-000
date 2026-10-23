@@ -1,16 +1,20 @@
-## Hi there 👋
+# Reyaan Amir
 
-<!--
-**Rey-000/Rey-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI products. Business Technology Management grad from Wilfrid Laurier University, based in Toronto. Previously production application support at CIBC.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Strategi** — [strategi.pro](https://strategi.pro)
+An AI competitive intelligence platform. Enter a company and it researches, grounds an LLM in retrieved sources, and returns a structured competitor profile in seconds instead of hours of manual screening. Used by an enterprise M&A team. Node/Express, Supabase, Gemini.
+
+**Echo** — [strategi.pro/echo](https://www.strategi.pro/echo)
+A live AI meeting assistant for Windows, in public beta. Live two-sided transcripts, notes that write themselves, jargon explained and claims fact-checked mid-call, and a recap when the call ends. Electron desktop client with a native audio capture addon, Express/Postgres backend.
+
+## How I work
+
+I design and direct the build: specs, architecture, review, QA, and live testing. The products above are the proof of work, shipped and in users' hands.
+
+## Links
+
+- Web: [strategi.pro](https://strategi.pro)
+- LinkedIn: [linkedin.com/in/reyaanamir](https://www.linkedin.com/in/reyaanamir)
